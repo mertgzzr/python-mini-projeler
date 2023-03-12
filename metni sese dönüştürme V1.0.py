@@ -33,4 +33,5 @@ but2=Button(root,text='Sesi Oynat',width=20,bg='brown',fg='white',command=play).
 
 root.mainloop()
 
+
           
