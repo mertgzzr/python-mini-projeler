@@ -12,3 +12,4 @@ def generate_password(length):
 # 10 karakter uzunluğunda bir şifre oluştur
 password = generate_password(10)
 print(password)
+print(mertgzzr)
