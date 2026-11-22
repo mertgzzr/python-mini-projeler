@@ -25,7 +25,7 @@ def play():
    mixer.music.play()
    
 
-ent1=Entry(root,tex=mytext,font=('arial 13')).pack()
+ent1=Entry(root,textvariable=mytext,font=('arial 13')).pack()
 
 but1=Button(root,text='Dönüştür',width=20,bg='brown',fg='white',command=fetch).place(x=125,y=100)
 
